@@ -6,3 +6,8 @@ learning headers
 *adding image:*
 
 ![Image](https://octodex.github.com/images/yaktocat.png)
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
